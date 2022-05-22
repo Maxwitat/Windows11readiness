@@ -1,4 +1,4 @@
-Custom WECM  report to display Windows 11 readiness information
+Custom MECM  report to display Windows 11 readiness information
 
 If you plan to migrate to Windows 11, you will probably want to determine which machines fulfill the requirements for an upgrade. If you are using MECM, you can find this information for single machines in the Resource Explorer.
  
