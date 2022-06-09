@@ -7,6 +7,5 @@ If your environment is tenant attached, you’ll find the same information in ME
 
 In case your environment is not cloud attached, this report will give you the Windows 11 readiness information by extending the MECM standard reports. 
 
-For further details see https://sysmanrec.com/custom-report-to-display-windows-11-readiness-information-in-mecm
 
 
